@@ -1,0 +1,9 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2 
+http1.1 : * It works on textual format and there is a head of line blocking.
+* That block all the request behind it untill it does't get all the resouces.
+* It compress data by itself.
+
+http2 : * It works on biary protocol.
+* It allowa multiplexing so one TCP connection is required for multiple request.
+* It use HPACK for data compression.
+  

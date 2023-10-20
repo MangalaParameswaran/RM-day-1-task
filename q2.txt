@@ -1,0 +1,4 @@
+Write a blog about objects and its internal representation in Javascript
+* object is one the important Javascript data types.
+* object is the collection of properties and a property of a assosiation is between a name(or key) and a value.
+* a property's value can be a function , in which case the property is know as Method.
